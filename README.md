@@ -2,5 +2,4 @@
 
 - 🔭 I’m currently working on PROJECT IN ML
 - 🌱 I’m currently learning ML
-- 👯 I’m looking to collaborate on PYTHON
-- 
+- 👯 I’m looking to collaborate on C++
